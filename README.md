@@ -1,5 +1,12 @@
 # Twitter Sentiment Analysis (NLP)
 
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+[![License](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
+
 ## Project Overview
 This project explores the impact of including hashtag words as context in sentiment analysis of tweets. It employs a traditional "bag of words" approach to analyze tweet sentiment, both with and without incorporating words from hashtags. The results are then compared with a state-of-the-art BERT-based model to evaluate the effectiveness of context inclusion.
 
