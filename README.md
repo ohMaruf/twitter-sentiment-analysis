@@ -57,7 +57,7 @@ This project is currently closed to contributions. However, you are welcome to f
 ## Acknowledgements
 - Dataset [gender-classifier-DFE-791531](https://www.kaggle.com/datasets/crowdflower/twitter-user-gender-classification/data) provided by [Kaggle](https://www.kaggle.com)
 - Tweet classification model [BERTweet](https://huggingface.co/docs/transformers/model_doc/bertweet) provided by [Hugging Face](https://huggingface.co)
-- Probabilistic concatenated word splitter (WordNinja)[https://github.com/keredson/wordninja]
+- Probabilistic concatenated word splitter [WordNinja](https://github.com/keredson/wordninja)
 
 ## Liked my work?
 Reach out to me on [LinkedIn](https://www.linkedin.com/in/ahmed-maruf-15684a212/)
